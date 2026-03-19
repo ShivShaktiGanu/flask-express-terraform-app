@@ -9,3 +9,4 @@ variable "instance_type" {
 variable "key_name" {
   description = "AWS key pair name"
 }
+h
