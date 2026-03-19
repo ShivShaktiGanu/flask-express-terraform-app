@@ -2,7 +2,7 @@
 apt update -y
 curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
 apt install nodejs -y
-l
+
 mkdir /home/ubuntu/express
 cd /home/ubuntu/express
 npm init -y
