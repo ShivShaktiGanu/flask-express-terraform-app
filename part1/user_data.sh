@@ -1,6 +1,6 @@
 #!/bin/bash
 yum update -y
-
+l
 yum install python3 -y
 pip3 install flask
 
