@@ -6,4 +6,4 @@ def hello():
     return "Flask running in ECS"
 
 app.run(host="0.0.0.0", port=5000)
-k
+
