@@ -1,4 +1,4 @@
-\# Flask \& Express Deployment on AWS using Terraform, Docker \& ECS
+\# Flask \& Express Deployment on AWS using Terraform, Docker and ECS
 
 
 
