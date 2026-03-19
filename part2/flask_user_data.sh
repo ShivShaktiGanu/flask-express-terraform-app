@@ -2,7 +2,7 @@
 apt update -y
 apt install python3-pip -y
 pip3 install flask
-
+l
 cat <<EOF > /home/ubuntu/app.py
 from flask import Flask
 app = Flask(__name__)
