@@ -1,7 +1,7 @@
 provider "aws" {
   region = var.region
 }
-k
+
 resource "aws_security_group" "flask_sg" {
   name = "flask-sg"
 
